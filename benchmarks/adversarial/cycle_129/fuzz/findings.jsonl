@@ -1,0 +1,7 @@
+{"surface":"crc_main","total":0,"crashes":0,"hangs":0,"oom":0,"oracle_mismatches":0,"findings":[],"committed_at":"2026-09-27T05:30:00Z","cycle":129,"repo":"crc16-en13757-pure"}
+{"surface":"cli_args","total":0,"crashes":0,"hangs":0,"oom":0,"oracle_mismatches":0,"findings":[],"committed_at":"2026-09-27T05:30:00Z","cycle":129,"repo":"crc16-en13757-pure"}
+{"surface":"type_errors","total":0,"crashes":0,"hangs":0,"oom":0,"oracle_mismatches":0,"findings":[],"committed_at":"2026-09-27T05:30:00Z","cycle":129,"repo":"crc16-en13757-pure"}
+{"surface":"engine_streaming","total":0,"crashes":0,"hangs":0,"oom":0,"oracle_mismatches":0,"findings":[],"committed_at":"2026-09-27T05:30:00Z","cycle":129,"repo":"crc16-en13757-pure"}
+{"surface":"table_integrity","total":0,"crashes":0,"hangs":0,"oom":0,"oracle_mismatches":0,"findings":[],"committed_at":"2026-09-27T05:30:00Z","cycle":129,"repo":"crc16-en13757-pure"}
+{"surface":"cross_cycle_oracle","total":0,"crashes":0,"hangs":0,"oom":0,"oracle_mismatches":0,"findings":[],"committed_at":"2026-09-27T05:30:00Z","cycle":129,"repo":"crc16-en13757-pure"}
+{"cycle":129,"repo":"crc16-en13757-pure","branch":"wt/cycle129-adversary-01","total_surfaces":6,"total_iterations":240256,"total_crashes":0,"total_hangs":0,"total_oom":0,"total_oracle_mismatches":0,"aggregate_verdict":"CLEAN","deferred_process_notes":[],"per_surface":["crc_main","cli_args","type_errors","engine_streaming","table_integrity","cross_cycle_oracle"],"committed_at":"2026-09-27T05:30:00Z","findings":[]}
