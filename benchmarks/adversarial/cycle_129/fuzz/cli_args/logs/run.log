@@ -1,0 +1,4 @@
+==== cli_args (iters=30000) ====
+  start: 2026-09-27T02:10:24Z seed=42 extras=--max-hex-len 256
+PASS harness_cli_args iters=30000 seed=42 max_hex_len=256 elapsed=1043.243s rate=29/s
+  end:   2026-09-27T02:27:48Z elapsed=1043.314s status=PASS

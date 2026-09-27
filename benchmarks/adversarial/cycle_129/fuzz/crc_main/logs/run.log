@@ -1,0 +1,4 @@
+==== crc_main (iters=100000) ====
+  start: 2026-09-27T02:05:13Z seed=42 extras=--max-len 1024
+PASS harness_crc_main iters=100000 seed=42 max_len=1024 elapsed=133.125s rate=751/s
+  end:   2026-09-27T02:07:26Z elapsed=133.164s status=PASS

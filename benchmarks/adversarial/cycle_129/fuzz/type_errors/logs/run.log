@@ -1,0 +1,4 @@
+==== type_errors (iters=50000) ====
+  start: 2026-09-27T02:27:48Z seed=42 extras=
+PASS harness_type_errors iters=50000 seed=42 canonical=20 surfaces=4 elapsed=0.139s rate=359,527/s
+  end:   2026-09-27T02:27:48Z elapsed=0.159s status=PASS

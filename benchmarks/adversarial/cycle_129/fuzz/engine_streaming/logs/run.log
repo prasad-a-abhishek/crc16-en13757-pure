@@ -1,0 +1,4 @@
+==== engine_streaming (iters=50000) ====
+  start: 2026-09-27T02:07:26Z seed=42 extras=--max-len 1024 --max-chunks 16
+PASS harness_crc_engine_streaming iters=50000 seed=42 max_len=1024 max_chunks=16 elapsed=178.204s rate=281/s
+  end:   2026-09-27T02:10:24Z elapsed=178.233s status=PASS

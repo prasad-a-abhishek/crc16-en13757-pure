@@ -1,0 +1,5 @@
+==== cross_cycle_oracle (iters=10000) ====
+  start: 2026-09-27T02:27:48Z seed=42 extras=
+  modbus_status=ok ccitt_status=stub_unavailable
+PASS harness_cross_cycle_oracle iters=10000 seed=42 corpus=10001 en=0xc2b7 modbus=0x4b37 ccitt=stub_unavailable elapsed=0.837s rate=11,953/s
+  end:   2026-09-27T02:27:49Z elapsed=0.857s status=PASS

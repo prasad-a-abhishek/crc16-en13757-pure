@@ -1,0 +1,12 @@
+{
+  "surface": "cross_cycle_oracle",
+  "iters": 10000,
+  "elapsed_sec": 0.857,
+  "crashes": 0,
+  "hangs": 0,
+  "oom": 0,
+  "oracle_mismatches": 0,
+  "max_rss_mb": null,
+  "seed": 42,
+  "status": "PASS"
+}

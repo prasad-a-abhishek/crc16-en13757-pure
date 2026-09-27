@@ -1,0 +1,4 @@
+==== table_integrity (iters=256) ====
+  start: 2026-09-27T02:10:24Z seed=42 extras=
+PASS harness_table_integrity iters=256 seed=42 table_len=256 elapsed=0.098s
+  end:   2026-09-27T02:10:24Z elapsed=0.123s status=PASS
