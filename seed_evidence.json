@@ -1,0 +1,16 @@
+{
+  "algorithm": "CRC-16/EN-13757",
+  "spec_authority": "EN 13757-3:2018 (Communication systems for meters — Part 3: Application protocols / Wireless M-Bus / OMS)",
+  "reveng_entry": "width=16 poly=0x3D65 init=0x0000 refin=false refout=false xorout=0xFFFF check=0xC2B7",
+  "reveng_url": "https://reveng.sourceforge.io/crc-catalogue/all.htm",
+  "vectors": [
+    {"input_hex": "", "output": "0xFFFF", "comment": "empty input -- no bytes consumed so internal state stays at init=0x0000; final XOR with xorout=0xFFFF yields 0xFFFF"},
+    {"input_hex": "00", "output": "0xFFFF"},
+    {"input_hex": "01", "output": "0xC29A"},
+    {"input_hex": "ff", "output": "0x53B7"},
+    {"input_hex": "00 01 02 03 04 05 06 07 08 09", "output": "0x1078"},
+    {"input_hex": "31 32 33 34 35 36 37 38 39", "output": "0xC2B7", "comment": "RevEng check value -- ASCII '123456789'"}
+  ],
+  "build_target_test_count": 100,
+  "ac_count": 12
+}
