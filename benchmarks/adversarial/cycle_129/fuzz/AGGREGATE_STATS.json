@@ -1,0 +1,17 @@
+{
+  "total_iters": 240256,
+  "total_crashes": 0,
+  "total_hangs": 0,
+  "total_oom": 0,
+  "total_oracle_mismatches": 0,
+  "total_elapsed_sec": 1355.8500000000001,
+  "aggregate_verdict": "CLEAN",
+  "per_surface": [
+    "cli_args",
+    "crc_main",
+    "cross_cycle_oracle",
+    "engine_streaming",
+    "table_integrity",
+    "type_errors"
+  ]
+}
