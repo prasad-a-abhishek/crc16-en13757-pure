@@ -16,7 +16,7 @@ catalogue and verified against the canonical check value `0xC2B7`.
 ## Quick Start
 
 ```bash
-pip install git+https://github.com/prasad-a-abhishek/crc16-en13757.git
+pip install git+https://github.com/prasad-a-abhishek/crc16-en13757-pure.git
 ```
 
 ```python
