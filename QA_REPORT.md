@@ -169,4 +169,6 @@ oracle disambiguation are all clean.
 
 Ready to ship to GitHub.
 
+tests_passing: true
+
 VERDICT: SHIP
